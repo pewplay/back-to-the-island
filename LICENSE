@@ -1,0 +1,25 @@
+ISC License
+
+Copyright (c) 2019 Andrew J. Baker
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+-------------------------------------------------------------------------------
+Third-party code
+
+js/audio.js contains ZzFX (Zuper Zmall Zeeded Zound Zynth) v1.05
+Copyright (c) 2019 Frank Force - MIT License
+https://github.com/KilledByAPixel/ZzFX
+
+js/font.js uses the 4x6 "tiny monospace font" by Robey Pointer
+(https://robey.lag.net/2010/01/23/tiny-monospace-font.html).

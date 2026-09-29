@@ -1,0 +1,65 @@
+{
+  "$schema": "https://raw.githubusercontent.com/pewplay/pewplay/main/schema/game.schema.json",
+  "title": "Back to the Island",
+  "description": "Cross a cursed island to the checkered tile while shadowy creatures patrol the sand in this free Lovecraft-inspired game in your browser.",
+  "about": "Back to the Island is a tense little dash across a haunted island. You are the red wanderer who swore never to return, yet here you are, washed up on the shore. Somewhere on the sand lies a checkered tile, your only way out, and between you and it glide the black, red-eyed things that live on the island.\n\nEvery creature patrols straight up and down, bouncing off the surf, so each crossing is a timing puzzle: watch the lanes, wait for a gap and slip through before it closes. The sea blocks your way, a single touch sends you back to the shore, and each new island adds more creatures that move faster than the last.\n\nOriginally created by Andrew J. Baker for js13kGames 2019.",
+  "howToPlay": "Walk from the grey starting tile to the checkered tile to escape to the next island. The black creatures only move up and down, bouncing off the water. If one touches you, you are sent back to the start of the island. Enemies get faster with every level and the islands repeat in tougher versions.",
+  "controls": [
+    {
+      "input": "Arrow keys / WASD",
+      "action": "Move (diagonals allowed)"
+    },
+    {
+      "input": "Drag anywhere (touch or mouse)",
+      "action": "Move with the floating joystick"
+    },
+    {
+      "input": "P / Esc",
+      "action": "Pause and resume"
+    },
+    {
+      "input": "M",
+      "action": "Mute or unmute sound"
+    }
+  ],
+  "tips": [
+    "Creatures only move vertically, so cross their columns quickly instead of walking alongside them.",
+    "Wait at the edge of a lane until the creature has just passed you, then dash through behind it.",
+    "Watch a creature's rhythm before committing: it never changes speed and only turns around when it reaches the water.",
+    "Move diagonally to cover distance and dodge in the same motion."
+  ],
+  "faq": [
+    {
+      "question": "Is Back to the Island free to play?",
+      "answer": "Yes, it is completely free and runs in your browser with no download or sign-up."
+    },
+    {
+      "question": "Can I play Back to the Island on my phone or tablet?",
+      "answer": "Yes. Touch and drag anywhere on the screen to use the floating joystick; it works in portrait and landscape, although landscape gives you a bigger island."
+    },
+    {
+      "question": "Does the game ever end?",
+      "answer": "There are six islands that repeat in a loop, and the creatures get faster every level, so the challenge is to see how far you can get; your best level is saved."
+    }
+  ],
+  "category": "Arcade",
+  "tags": [
+    "lovecraft",
+    "retro",
+    "maze",
+    "dodge",
+    "pixel art",
+    "js13k"
+  ],
+  "author": "Andrew J. Baker",
+  "playMode": "SinglePlayer",
+  "orientation": "any",
+  "cover": "cover.png",
+  "screenshots": [
+    "screenshots/1.png",
+    "screenshots/2.png",
+    "screenshots/3.png"
+  ],
+  "added": "2026-09-28",
+  "draft": false
+}
